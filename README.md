@@ -1,2 +1,2 @@
-# lottery_GUI
-lottery_GUI
+# GUI_Tkinter_lottery
+GUI_Tkinter_lottery
